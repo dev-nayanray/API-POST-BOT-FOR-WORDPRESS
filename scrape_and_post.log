@@ -1,0 +1,185 @@
+2024-09-14 03:18:47,367 - INFO - Post 'Webpack configuration for multiblock plugins behaves unexpectedly' already exists. Skipping.
+2024-09-14 03:18:48,240 - INFO - Post 'How can I change the post order after filtering in WordPress?' already exists. Skipping.
+2024-09-14 03:18:49,073 - INFO - Post 'Force new posts to the top of query loop' already exists. Skipping.
+2024-09-14 03:18:49,942 - INFO - Post '“Invalid parameter(s): attributes” issue in context of “blocks.registerBlockType” filter' already exists. Skipping.
+2024-09-14 03:18:50,737 - INFO - Post 'Can I send a body using wp_remote_get()?' already exists. Skipping.
+2024-09-14 03:18:51,716 - INFO - Post 'How to execute some javascript code in the editor when a block pattern is added?' already exists. Skipping.
+2024-09-14 03:18:52,538 - INFO - Post 'Filter “wp_mail” – How to distinguish between a WordPress system email and a plugin email?' already exists. Skipping.
+2024-09-14 03:18:53,337 - INFO - Post 'Responsive rules with block themes and theme.json' already exists. Skipping.
+2024-09-14 03:18:54,180 - INFO - Post 'How to add group-row to InnerBlock template?' already exists. Skipping.
+2024-09-14 03:18:55,076 - INFO - Post 'add custom filter to plugins page?' already exists. Skipping.
+2024-09-14 03:18:57,235 - INFO - Post 'How to get and set post meta for core/navigation-link?' already exists. Skipping.
+2024-09-14 03:18:58,165 - INFO - Post '“Could not open input file: wp-cron.php?import_key=” in shell?' already exists. Skipping.
+2024-09-14 03:18:59,088 - INFO - Post 'How to manually delete post from database without causing conflicts?' already exists. Skipping.
+2024-09-14 03:18:59,957 - INFO - Post 'How to get Gutenberg pattern sync status for custom pattern listings table?' already exists. Skipping.
+2024-09-14 03:19:00,871 - INFO - Post 'Moving Post Title out of Block Editor' already exists. Skipping.
+2024-09-14 03:19:01,756 - INFO - Post 'Getting fatal error when using manage_media_columns filter of WordPress' already exists. Skipping.
+2024-09-14 03:19:02,597 - INFO - Post 'Automatically install bundled plugins during theme activation?' already exists. Skipping.
+2024-09-14 03:19:03,448 - INFO - Post 'Display posts on a custom page from only a specific category?' already exists. Skipping.
+2024-09-14 03:19:05,046 - ERROR - Failed to create post 'How to list custom taxonomy terms without the hyperlinks?', status code: 406
+2024-09-14 03:19:05,047 - ERROR - <!DOCTYPE html>
+<html style="height:100%">
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+<title> 406 Not Acceptable
+</title><style>@media (prefers-color-scheme:dark){body{background-color:#000!important}}</style></head>
+<body style="color: #444; margin:0;font: normal 14px/20px Arial, Helvetica, sans-serif; height:100%; background-color: #fff;">
+<div style="height:auto; min-height:100%; ">     <div style="text-align: center; width:800px; margin-left: -400px; position:absolute; top: 30%; left:50%;">
+        <h1 style="margin:0; font-size:150px; line-height:150px; font-weight:bold;">406</h1>
+<h2 style="margin-top:20px;font-size: 30px;">Not Acceptable
+</h2>
+<p>This request is not acceptable</p>
+</div></div></body></html>
+
+2024-09-14 03:19:05,956 - INFO - Post 'Remove Prefix from Custom Post Type Slug' already exists. Skipping.
+2024-09-14 03:19:07,291 - INFO - Post 'Display related posts that match as many similar tags as possible?' already exists. Skipping.
+2024-09-14 03:19:08,162 - INFO - Post 'Install an external plugin from within the current plugin?' already exists. Skipping.
+2024-09-14 03:19:09,101 - INFO - Post 'REST API Schema: how to allows for both empty string or email string' already exists. Skipping.
+2024-09-14 03:19:09,934 - INFO - Post 'How to change the lang=”en-US” value of the HTML document?' already exists. Skipping.
+2024-09-14 03:19:10,799 - INFO - Post 'Automatically download dependent plugins from WordPress.org?' already exists. Skipping.
+2024-09-14 03:19:12,480 - ERROR - Failed to create post 'How to show related posts by detecting the current category?', status code: 406
+2024-09-14 03:19:12,480 - ERROR - <!DOCTYPE html>
+<html style="height:100%">
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+<title> 406 Not Acceptable
+</title><style>@media (prefers-color-scheme:dark){body{background-color:#000!important}}</style></head>
+<body style="color: #444; margin:0;font: normal 14px/20px Arial, Helvetica, sans-serif; height:100%; background-color: #fff;">
+<div style="height:auto; min-height:100%; ">     <div style="text-align: center; width:800px; margin-left: -400px; position:absolute; top: 30%; left:50%;">
+        <h1 style="margin:0; font-size:150px; line-height:150px; font-weight:bold;">406</h1>
+<h2 style="margin-top:20px;font-size: 30px;">Not Acceptable
+</h2>
+<p>This request is not acceptable</p>
+</div></div></body></html>
+
+2024-09-14 03:19:13,463 - INFO - Post 'Query by “similar” post title' already exists. Skipping.
+2024-09-14 03:19:14,312 - INFO - Post 'Should I disable WP_CRON and trigger wp-cron.php from the server?' already exists. Skipping.
+2024-09-14 03:19:15,182 - INFO - Post 'How to display related posts from the same category?' already exists. Skipping.
+2024-09-14 03:19:15,839 - ERROR - Failed to check existing posts, status code: 406
+2024-09-14 03:19:16,697 - INFO - Post 'get_the_term_list without links in archive template title tags?' created successfully!
+2024-09-14 03:19:18,124 - INFO - Post 'Is it possible to get_terms by taxonomy AND post_type?' already exists. Skipping.
+2024-09-14 03:19:18,982 - INFO - Post 'Running WP-Cron on Multisite networks the right way?' already exists. Skipping.
+2024-09-14 03:19:20,521 - ERROR - Failed to create post 'wp_mail doen’t send mails with attachment', status code: 406
+2024-09-14 03:19:20,521 - ERROR - <!DOCTYPE html>
+<html style="height:100%">
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+<title> 406 Not Acceptable
+</title><style>@media (prefers-color-scheme:dark){body{background-color:#000!important}}</style></head>
+<body style="color: #444; margin:0;font: normal 14px/20px Arial, Helvetica, sans-serif; height:100%; background-color: #fff;">
+<div style="height:auto; min-height:100%; ">     <div style="text-align: center; width:800px; margin-left: -400px; position:absolute; top: 30%; left:50%;">
+        <h1 style="margin:0; font-size:150px; line-height:150px; font-weight:bold;">406</h1>
+<h2 style="margin-top:20px;font-size: 30px;">Not Acceptable
+</h2>
+<p>This request is not acceptable</p>
+</div></div></body></html>
+
+2024-09-14 03:19:21,488 - INFO - Post 'How to get the WooCommerce product variation image' already exists. Skipping.
+2024-09-14 03:19:22,290 - INFO - Post 'How do I show related posts from categories instead of tags?' already exists. Skipping.
+2024-09-14 03:19:23,147 - INFO - Post 'Multisite subdirectory network cron jobs using only crontab and PHP?' already exists. Skipping.
+2024-09-14 03:19:23,971 - INFO - Post 'Help with adding fullcalendar.io to a WordPress page' already exists. Skipping.
+2024-09-14 03:19:24,812 - INFO - Post 'WordPress walker add class to Sub Menu a href' already exists. Skipping.
+2024-09-14 03:19:28,267 - ERROR - Failed to create post 'how to get json file in wordpress template in wordpress', status code: 406
+2024-09-14 03:19:28,267 - ERROR - <!DOCTYPE html>
+<html style="height:100%">
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+<title> 406 Not Acceptable
+</title><style>@media (prefers-color-scheme:dark){body{background-color:#000!important}}</style></head>
+<body style="color: #444; margin:0;font: normal 14px/20px Arial, Helvetica, sans-serif; height:100%; background-color: #fff;">
+<div style="height:auto; min-height:100%; ">     <div style="text-align: center; width:800px; margin-left: -400px; position:absolute; top: 30%; left:50%;">
+        <h1 style="margin:0; font-size:150px; line-height:150px; font-weight:bold;">406</h1>
+<h2 style="margin-top:20px;font-size: 30px;">Not Acceptable
+</h2>
+<p>This request is not acceptable</p>
+</div></div></body></html>
+
+2024-09-14 03:19:29,115 - INFO - Post 'I want to change the Post Type slug of a CPT (custom post type) to the category slug of the page' already exists. Skipping.
+2024-09-14 03:19:30,541 - INFO - Post 'Extend backbone for add new custom Rest Api' already exists. Skipping.
+2024-09-14 03:19:31,403 - INFO - Post 'how putting a “null position” in a taxonomy dropdown selector' already exists. Skipping.
+2024-09-14 03:19:32,263 - INFO - Post 'how do I display Quick Edit box on a custom plugin page with a list of posts?' already exists. Skipping.
+2024-09-14 03:19:33,190 - INFO - Post 'Unable to correctly include jQuery in a legacy WordPress application with multisites' already exists. Skipping.
+2024-09-14 03:19:34,042 - INFO - Post 'What is the correct way to implement wp-cron server-side in Kubernetes?' already exists. Skipping.
+2024-09-14 03:19:34,889 - INFO - Post 'How to redirect non admin user after login' already exists. Skipping.
+2024-09-14 03:19:35,744 - INFO - Post 'Favicon not showing' already exists. Skipping.
+2024-09-14 03:19:36,573 - INFO - Post 'Prevent WP from escaping html on edit posts screen' already exists. Skipping.
+2024-09-14 03:19:37,518 - INFO - Post 'Position tab missing in the Block Theme Editor' already exists. Skipping.
+2024-09-14 03:19:38,440 - INFO - Post 'How to set product category base the same as shop base in WooCommerce?' already exists. Skipping.
+2024-09-14 03:19:40,493 - INFO - Post 'Allow requests to resources outside the wordpress folder' already exists. Skipping.
+2024-09-14 03:19:41,280 - INFO - Post 'How to use custom post type and taxonomy for car specs in wp' already exists. Skipping.
+2024-09-14 03:19:42,122 - INFO - Post 'Add URL in image upload error message' already exists. Skipping.
+2024-09-14 03:19:42,922 - INFO - Post 'add_post_meta not working within AJAX function' already exists. Skipping.
+2024-09-14 03:19:43,767 - INFO - Post 'admin-ajax.php won’t load without logging as admin- JSON Parse error: Unexpected EOF' already exists. Skipping.
+2024-09-14 03:19:44,611 - INFO - Post 'Gutenberg editor styles not applied' already exists. Skipping.
+2024-09-14 03:19:45,452 - INFO - Post 'How to detect when the user clicks the publish/update button in Gutenberg Editor' already exists. Skipping.
+2024-09-14 03:19:46,299 - INFO - Post 'WordPress multisite on different subfolders can’t install plugin via network' already exists. Skipping.
+2024-09-14 03:19:47,132 - INFO - Post 'How to edit templates created in the block editor in code / template files not updating' already exists. Skipping.
+2024-09-14 03:19:48,031 - INFO - Post 'Wp forms wpforms()->entry->update not working on page refresh' already exists. Skipping.
+2024-09-14 03:19:50,154 - INFO - Post 'i have a external api using that i want to login wordpress' already exists. Skipping.
+2024-09-14 03:19:51,030 - INFO - Post 'How to test plugin development with Git Hub Actions (integration tests)?' already exists. Skipping.
+2024-09-14 03:19:52,060 - INFO - Post 'Confused about editing the HTML in a template' already exists. Skipping.
+2024-09-14 03:19:53,099 - INFO - Post '403 forbidden error in the admin panel as well as on the admin-ajax.php file' already exists. Skipping.
+2024-09-14 03:19:54,074 - INFO - Post 'Users as team members through a loop in elementor' already exists. Skipping.
+2024-09-14 03:19:54,954 - INFO - Post 'Is it safe to upgrade WordPress 4.9.23 to 6.2.2 and WPBakery 5.5.5 to 6.13.0?' already exists. Skipping.
+2024-09-14 03:19:56,020 - INFO - Post 'WordPress Cron Job not importing products' already exists. Skipping.
+2024-09-14 03:19:56,870 - INFO - Post 'Custom plug-in issues' already exists. Skipping.
+2024-09-14 03:19:57,687 - INFO - Post 'Platform sh site setup in localhost gets Cookie error' already exists. Skipping.
+2024-09-14 03:19:58,601 - INFO - Post 'Validate a custom form with js and php' already exists. Skipping.
+2024-09-14 03:20:00,361 - INFO - Post 'ERROR during WordPress Installation “There has been a critical error on this website.”' already exists. Skipping.
+2024-09-14 03:20:01,382 - INFO - Post 'column values not showing after merging two custom post types' already exists. Skipping.
+2024-09-14 03:20:02,561 - INFO - Post 'Block validation – conflict between my attrributes and save.js file' already exists. Skipping.
+2024-09-14 03:20:11,487 - INFO - Post 'My pagination creates a redirect' already exists. Skipping.
+2024-09-14 03:20:12,423 - INFO - Post 'How can I find a big uploaded zip file in the Media library?' already exists. Skipping.
+2024-09-14 03:20:13,304 - INFO - Post 'How to add field new in account bacs in woocommerce?' already exists. Skipping.
+2024-09-14 03:20:14,309 - INFO - Post 'Building a search box with taxonomies and custom fields' already exists. Skipping.
+2024-09-14 03:20:15,211 - INFO - Post 'Calling metadata in a single.php file' already exists. Skipping.
+2024-09-14 03:20:16,127 - INFO - Post 'Unable to add blocks in wordpress posts' already exists. Skipping.
+2024-09-14 03:20:16,985 - INFO - Post 'My website blog section has been replaced with adult blog posts' already exists. Skipping.
+2024-09-14 03:20:18,266 - INFO - Post 'contact form 7 form not working in admin panel' already exists. Skipping.
+2024-09-14 03:20:19,070 - INFO - Post 'Optimizing or rewriting core queries' already exists. Skipping.
+2024-09-14 03:20:19,958 - INFO - Post 'Fields are not displayed on front end under custom php code in Advanced Custom Fields and Flexible Content field WordPress' already exists. Skipping.
+2024-09-14 03:20:20,804 - INFO - Post 'Detecting whenever a user types – in the Gutenberg editor, and checking if there is a preceding or succeeding – then converting both to an em dash' already exists. Skipping.
+2024-09-14 03:20:21,680 - INFO - Post 'Extending the search function to a specific meta field value in the admin posts table' already exists. Skipping.
+2024-09-14 03:20:22,590 - INFO - Post 'Can I Load posts from an External database if the post is not found on Main WordPress Database' already exists. Skipping.
+2024-09-14 03:20:23,442 - INFO - Post 'How to disable the PDF preview in the file block by default' already exists. Skipping.
+2024-09-14 03:20:24,277 - INFO - Post 'Trying to remove all references from old domain in wordpress site after migration to new domain' already exists. Skipping.
+2024-09-14 03:20:25,112 - INFO - Post 'website not indexed' already exists. Skipping.
+2024-09-14 03:20:25,921 - INFO - Post 'Section disappears when update pushed to production' already exists. Skipping.
+2024-09-14 03:20:27,268 - INFO - Post 'How do I create a shortcode that returns a logged in users’ email?' already exists. Skipping.
+2024-09-14 03:20:28,101 - INFO - Post 'Why Does get_page_by_path Return The Sample Post?' already exists. Skipping.
+2024-09-14 03:20:29,739 - INFO - Post 'all plug-ins load scripts on all pages' already exists. Skipping.
+2024-09-14 03:20:30,590 - INFO - Post 'Wrong site title and description in google search' already exists. Skipping.
+2024-09-14 03:20:31,432 - INFO - Post 'large number (bigint) for post ID issue in database' already exists. Skipping.
+2024-09-14 03:20:32,313 - INFO - Post 'Backup Site Data from a Bitnami WordPress instance' already exists. Skipping.
+2024-09-14 03:20:33,229 - INFO - Post 'I’m Trying to Separate the First Post From the Rest of the Loop' already exists. Skipping.
+2024-09-14 03:20:34,057 - INFO - Post 'List all posts in hierarchy and groupped by each taxonomy' already exists. Skipping.
+2024-09-14 03:20:34,864 - INFO - Post '404 Error after URL update' already exists. Skipping.
+2024-09-14 03:20:35,701 - INFO - Post 'Add text/link next to the last word of each post' already exists. Skipping.
+2024-09-14 03:20:37,873 - INFO - Post 'How to change the text of Publish Button' already exists. Skipping.
+2024-09-14 03:20:38,798 - INFO - Post 'WordPress Gallery only allowed 10 times per post' already exists. Skipping.
+2024-09-14 03:20:39,680 - INFO - Post 'How to pass a file to an API call through WordPress' already exists. Skipping.
+2024-09-14 03:20:40,546 - INFO - Post 'What is the equivalent of get_user_option for saving options?' already exists. Skipping.
+2024-09-14 03:20:41,437 - INFO - Post 'How to make a Custom Post Type entry to have different parent pages' already exists. Skipping.
+2024-09-14 03:20:42,277 - INFO - Post 'WordPress add menu items display slug too' already exists. Skipping.
+2024-09-14 03:20:43,196 - INFO - Post 'Is there a way to return a list of the default image size names when they are unset?' already exists. Skipping.
+2024-09-14 03:20:44,044 - INFO - Post 'How to display title, description etc in block images?' already exists. Skipping.
+2024-09-14 03:20:44,907 - INFO - Post 'My wordpress website showing 2 titles in source code how can i fix this issue' already exists. Skipping.
+2024-09-14 03:20:45,737 - INFO - Post 'How can I get or the intermediate size of an image with wp_get_attachment_image_src without using post meta?' already exists. Skipping.
+2024-09-14 03:20:47,119 - INFO - Post 'JSON Unexpected Token – Unfortunately from a not very technical person' already exists. Skipping.
+2024-09-14 03:20:47,931 - INFO - Post 'wordpress filter for searching categories with ajax not working' already exists. Skipping.
+2024-09-14 03:20:48,765 - INFO - Post 'Registered a REST Route but I’m Getting a 400 Bad Request' already exists. Skipping.
+2024-09-14 03:20:49,590 - INFO - Post 'How to display a custom page for 400 error message for WordPress website hosted on a NGINX server?' already exists. Skipping.
+2024-09-14 03:20:50,432 - INFO - Post 'Register block pattern category with higher priority' already exists. Skipping.
+2024-09-14 03:20:51,420 - INFO - Post 'WordPress dynamic select with category and authors' already exists. Skipping.
+2024-09-14 03:20:52,261 - INFO - Post 'WP_PLUGIN_URL equivalent' already exists. Skipping.
+2024-09-14 03:20:53,098 - INFO - Post 'displaying ACF Repeater Fields in Backend sorted by a subfield' already exists. Skipping.
+2024-09-14 03:20:54,023 - INFO - Post 'WordPress REST API and Backbone JS' already exists. Skipping.
+2024-09-14 03:20:54,963 - INFO - Post 'Link from page to category posts' already exists. Skipping.
+2024-09-14 03:20:57,171 - INFO - Post 'How to append $metadata[‘sizes’] to metadata when using ‘wp_generate_attachment_metadata?' already exists. Skipping.
+2024-09-14 03:20:57,999 - INFO - Post 'Every single link on my website opens to my last blog post' already exists. Skipping.
+2024-09-14 03:20:58,816 - INFO - Post 'Why is user_can_access_admin_page() an undefined function?' already exists. Skipping.
+2024-09-14 03:20:59,658 - INFO - Post 'How to solve too many files in uploads folder(s)?' already exists. Skipping.
+2024-09-14 03:21:00,556 - INFO - Post 'How can I generate a page that will always contain a list all the pages (not posts)?' already exists. Skipping.
+2024-09-14 03:21:01,399 - INFO - Post 'How to change all the images in post content to full/orginal size – Thumbnails are broken' already exists. Skipping.
+2024-09-14 03:21:02,285 - INFO - Post 'Bullet proofing a server with 150 WP insallations' already exists. Skipping.
+2024-09-14 03:21:03,184 - INFO - Post 'Warning: Cannot modify header information – headers already sent custom sizes and get_intermediate_image_sizes()' already exists. Skipping.
